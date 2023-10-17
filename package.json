@@ -5,6 +5,6 @@
   "type": "library",
   "description": "Base Asset",
   "dependencies": {
-    "com.gustavopsantos.reflex": ""
+    "com.gustavopsantos.reflex": "5.0.0"
   }
 }
