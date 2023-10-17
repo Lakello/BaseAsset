@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.gustavopsantos.reflex": "https://github.com/gustavopsantos/reflex.git?path=/Assets/Reflex"
+  }
+}
