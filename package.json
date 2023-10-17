@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "displayName": "Base Asset",
   "type": "library",
-  "description": "Base Asset",
-  "dependencies": {
-    "com.gustavopsantos.reflex": "5.0.0"
-  }
+  "description": "Base Asset"
 }
